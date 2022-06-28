@@ -1,0 +1,18 @@
+.todo-list {
+    background: #555;
+    border-radius: 4px;
+    padding: 8px;
+    max-width: 500px;
+  }
+  
+  .todo {
+    background: white;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+    padding: 3px 10px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
